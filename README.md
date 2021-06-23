@@ -148,7 +148,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-David Robb - [@twitter_handle](https://twitter.com/DavidRobb2) - drobb2011@gmail.com
+David Robb - [@DavidRobb2](https://twitter.com/DavidRobb2) - drobb2011@gmail.com
 
 Project Link: [https://github.com/drobb2020/repo_name](https://github.com/drobb2020/repo_name)
 
